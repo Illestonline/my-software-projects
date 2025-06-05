@@ -38,4 +38,4 @@ This tool is designed as an **evolving framework**. While its current foundation
 *   **Core Tooling:** Nmap (wrapper), whois (wrapper)
 
 ---
-*For inquiries or to request a private demonstration, please contact me at [ianryansmith@gmail.com].*# my-software-projects
+*For inquiries or to request a private demonstration, please contact me at [ianryansmith@gmail.com].
