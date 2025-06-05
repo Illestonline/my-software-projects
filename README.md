@@ -12,7 +12,7 @@ Illsearch is an extensible, multi-threaded GUI framework designed to streamline 
 
 ### Live Demonstration (GIF)
 
-![Illsearch Demo](https://github.com/Illestonline/my-software-projects/blob/main/illsearch-demo.gif)
+![Illsearch Demo](https://github.com/Illestonline/my-software-projects/raw/main/illsearch-demo.gif)
 
 ### About The Project & Vision
 
