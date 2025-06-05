@@ -12,9 +12,7 @@ Illsearch is an extensible, multi-threaded GUI framework designed to streamline 
 
 ### Live Demonstration (GIF)
 
-*(This is where you'll embed a GIF of the tool in action. It's essential!)*
-
-![Illsearch Demo]([link_to_your_gif_or_video_here.gif](https://github.com/Illestonline/my-software-projects/blob/main/illsearch-2025-06-05_16.20.11.mp4)
+![Illsearch Demo](https://github.com/Illestonline/my-software-projects/blob/main/illsearch-demo.gif)
 
 ### About The Project & Vision
 
@@ -40,4 +38,4 @@ This tool is designed as an **evolving framework**. While its current foundation
 *   **Core Tooling:** Nmap (wrapper), whois (wrapper)
 
 ---
-*For inquiries or to request a private demonstration, please contact me at [your-email@example.com].*# my-software-projects
+*For inquiries or to request a private demonstration, please contact me at [ianryansmith@gmail.com].*# my-software-projects
